@@ -1,5 +1,9 @@
 # SwagLabs
-Designing automation tests effectively is absolutely crucial for their success and ultimately, the success of your software development process.
+The effective design of automation tests is not just beneficial, but also of pivotal importance to their overall success. Before diving headfirst into the process of automation, it is paramount to clearly define the objective of the test at hand and understand its value within the framework of the overall testing strategy. A concentrated focus should be maintained on automating areas that are characterized by high impact, features that are frequently utilized, and sections that are particularly susceptible to regression. When it comes to designing your tests, they should be crafted as independent units, each one honing in on specific functionalities. This approach ensures that each function is thoroughly tested and any potential issues are highlighted effectively. Additionally, incorporating data-driven testing into your strategy can be incredibly beneficial. This method allows for the execution of the same test with varying data sets, which in turn, escalates the scope of coverage and enhances flexibility.
+
+Contained within this repository is a selection of branches that demonstrate a transition from a state of no test design to one where diverse test designs have been implemented. This serves as a helpful tool to understand not only the advantages of test design but also the variety of strategies that can be utilized in this process. 
+
+Outlined below are the user acceptance criteria that have been used to effectively communicate the proposed idea, along with the identified test cases. It should be noted that these cases have been penned down as a proof of concept. As a result, the test coverage part has been intentionally omitted in this instance.
 
 Log in as `standard_user` or `visual_user`. Users can select items for checkout and, if necessary, remove or cancel the selected items. They can also add more items during the checkout process. However, they won't be able to complete the checkout without providing complete user information.
 
