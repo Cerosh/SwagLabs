@@ -1,0 +1,14 @@
+{
+  "name": "swaglabs",
+  "version": "1.0.0",
+  "description": "The effective design of automation tests is not just beneficial, but also of pivotal importance to their overall success. Before diving headfirst into the process of automation, it is paramount to clearly define the objective of the test at hand and understand its value within the framework of the overall testing strategy. A concentrated focus should be maintained on automating areas that are characterized by high impact, features that are frequently utilized, and sections that are particularly susceptible to regression. When it comes to designing your tests, they should be crafted as independent units, each one honing in on specific functionalities. This approach ensures that each function is thoroughly tested and any potential issues are highlighted effectively. Additionally, incorporating data-driven testing into your strategy can be incredibly beneficial. This method allows for the execution of the same test with varying data sets, which in turn, escalates the scope of coverage and enhances flexibility.",
+  "main": "index.js",
+  "scripts": {},
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@playwright/test": "^1.41.2",
+    "@types/node": "^20.11.17"
+  }
+}
